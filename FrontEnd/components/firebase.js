@@ -4,10 +4,10 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBoP3yanRc7mNXX_xEpXT227jEUm7T4TzU",
-  authDomain: "csds-393.firebaseapp.com",
-  projectId: "csds-393",
-  storageBucket: "csds-393.appspot.com",
+  apiKey: "apiKey",
+  authDomain: "csds.firebaseapp.com",
+  projectId: "csds",
+  storageBucket: "csds.appspot.com",
   messagingSenderId: "339260677444",
   appId: "1:339260677444:web:cace1e608198eacd7ecb11"
 };
