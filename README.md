@@ -24,9 +24,9 @@ This web application allows users to:
 ## Tech Stack
 
 ### Frontend
-- [React](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
-- [Material UI](https://mui.com/)
+- React
+- Next.js
+- Material UI
 - Redux, Axios, NextAuth
 
 ### Backend
