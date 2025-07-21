@@ -1,4 +1,4 @@
-# 💸 Spartan Budget
+# Spartan Budget
 
 Spartan Budget is a **personal finance and budgeting web application** designed especially for students to gain control over their finances. 
 From tracking daily expenses to managing shared bills with roommates and setting personal savings goals, 
@@ -6,7 +6,6 @@ Spartan Budget provides a full suite of tools to help users understand and impro
 
 ---
 🔗 **Live Demo**: [Spartan Budget Application](https://spartanbudgetfe-reshmas-projects-f978a53e.vercel.app)
----
 
 ## 🎯 Project Overview
 
@@ -22,7 +21,7 @@ This web application allows users to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - [React](https://reactjs.org/)
@@ -42,7 +41,7 @@ This web application allows users to:
 
 ---
 
-## 🖼️ Key Highlights of the Website
+## Key Highlights of the Website
 
 ### ✅ Personalized Budget Dashboard
 - Automatically summarizes your monthly income, expenses, and balances
@@ -60,7 +59,7 @@ This web application allows users to:
 - Receive email notifications when new bills are created or updated
 
 ### 🎯 Financial Goals
-- Set goals like "Save $1,000 for a trip" or "Pay off credit card debt"
+- Set goals like "Save $1,000 for a trip" or "Pay off credit card debt."
 - Predict how long it will take to achieve the goal based on your current spending
 - Visual dashboards help track progress month-over-month
 
@@ -75,7 +74,7 @@ This web application allows users to:
 
 ---
 
-## 🧑‍💻 How It Works (User Manual)
+## User Manual
 
 1. **Signup/Login**
    - Secure account creation via email or social login
@@ -100,5 +99,3 @@ This web application allows users to:
 6. **Set Goals**
    - Define financial goals with target savings
    - Track estimated time to achieve based on current financial behavior
-
----
